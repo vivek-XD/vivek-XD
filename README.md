@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=220&section=header&text=Vivek%20Chauhan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%2FML%20%7C%20Data%20Engineering%20%7C%20Business%20Intelligence&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=240&section=header&text=Vivek%20Chauhan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20AI%2FML%20%7C%20Business%20Intelligence%20%7C%20Data%20Engineering&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/vivek-XD">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Analyst+%26+AI%2FML+Practitioner;Turning+Raw+Data+Into+Real+Decisions;ETL+%7C+EDA+%7C+KPI+Reporting;Power+BI+%7C+Python+%7C+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Data+Analyst+%26+AI%2FML+Practitioner;Turning+Raw+Data+Into+Real+Decisions;SQL+%7C+Power+BI+%7C+Python+%7C+Tableau;ETL+%7C+EDA+%7C+KPI+Reporting+%7C+DAX" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,66 +27,123 @@
 <img src="https://img.shields.io/github/followers/vivek-XD?style=for-the-badge&color=8b5cf6&labelColor=1a1a2e&label=FOLLOWERS" />
 <img src="https://img.shields.io/github/stars/vivek-XD?style=for-the-badge&color=3a0ca3&labelColor=1a1a2e&label=STARS" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⚡%2010%2C000%2B%20Records%20Analyzed-1a1a2e?style=flat-square&labelColor=6d28d9" />
+<img src="https://img.shields.io/badge/📊%20Power%20BI%20Dashboards-1a1a2e?style=flat-square&labelColor=8b5cf6" />
+<img src="https://img.shields.io/badge/🎯%20Stakeholder%20Ready%20Insights-1a1a2e?style=flat-square&labelColor=3a0ca3" />
+
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=3&section=header" />
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6d28d9,100:8b5cf6&height=44&section=header&text=About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=52" />
 
 Data analyst and final-year **B.Tech (AI & Machine Learning)** candidate who turns raw, messy data into decisions people can act on. I work end-to-end: cleaning and modeling large datasets, engineering clean ETL workflows, running statistical analysis, and shipping stakeholder-ready dashboards and reports.
 
 - **Data Analysis** — cleaning, exploring, and interpreting 10,000+ record datasets into clear insights.
 - **AI / ML** — statistical analysis, exploratory modeling, and applied machine learning on real-world data.
-- **Business Intelligence** — Power BI dashboards, KPI reporting, and decision-ready visualizations.
+- **Business Intelligence** — Power BI & Tableau dashboards, KPI reporting, and decision-ready visualizations.
 - **Stakeholder Impact** — I optimize for measurable outcomes and clear communication, not vanity metrics.
 
 > **Open To:** Data Analyst · AI/ML Roles · Data Engineering · Business Intelligence · Internships · Open Source Collaboration
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=3&section=header" />
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6d28d9,100:8b5cf6&height=44&section=header&text=Tech%20Stack&fontSize=24&fontColor=ffffff&fontAlignY=52" />
 
-#### Languages
-<img src="https://skillicons.dev/icons?i=python,sql&theme=dark" />
+<div align="center">
 
-#### Data Analysis & ML
-<img src="https://skillicons.dev/icons?i=py,anaconda,tensorflow,sklearn&theme=dark" />
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" /><br/><sub><b>SQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="44" /><br/><sub><b>Power BI</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48" /><br/><sub><b>Tableau</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" /><br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" /><br/><sub><b>MySQL</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" /><br/><sub><b>Pandas</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" /><br/><sub><b>NumPy</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" /><br/><sub><b>scikit-learn</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" /><br/><sub><b>Jupyter</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Bar%20chart/3D/bar_chart_3d.png" width="44" /><br/><sub><b>Excel</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" /><br/><sub><b>Matplotlib</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="44" /><br/><sub><b>Seaborn</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" /><br/><sub><b>IBM Cloud</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /><br/><sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" /><br/><sub><b>VS Code</b></sub>
+</td>
+</tr>
+</table>
 
-#### Visualization & BI
-<img src="https://img.shields.io/badge/Power%20BI-6d28d9?style=flat-square&logo=powerbi&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Excel-8b5cf6?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Google%20Sheets-3a0ca3?style=flat-square&logo=googlesheets&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Seaborn-4c1d95?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Matplotlib-6d28d9?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e" />
+<br/>
 
-#### Cloud & Tooling
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-<img src="https://img.shields.io/badge/IBM%20Cloud-8b5cf6?style=flat-square&logo=ibmcloud&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/SQL-8b5cf6?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Power%20BI-6d28d9?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/DAX-3a0ca3?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Tableau-4c1d95?style=for-the-badge&logo=tableau&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Python-6d28d9?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Pandas-8b5cf6?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a2e" />
 
----
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=3&section=header" />
 
 <!-- ═══════════════════════ AI / ML EXPERTISE ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> AI / ML Expertise
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6d28d9,100:8b5cf6&height=44&section=header&text=AI%20%2F%20ML%20Expertise&fontSize=24&fontColor=ffffff&fontAlignY=52" />
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
+| **SQL & Databases** | ⭐⭐⭐⭐ | Querying, joins, aggregation, and data modeling for analytics |
+| **Power BI & BI Reporting** | ⭐⭐⭐⭐⭐ | Dashboards, KPI cards, slicers, and DAX-driven insights |
 | **Data Cleaning & ETL** | ⭐⭐⭐⭐⭐ | Extraction, transformation, and validation of 10,000+ record datasets |
 | **Exploratory Data Analysis** | ⭐⭐⭐⭐⭐ | Statistical analysis, correlation discovery, hypothesis validation |
 | **Machine Learning** | ⭐⭐⭐⭐ | Applied ML workflows on real-world datasets, model-backed insights |
-| **Data Visualization** | ⭐⭐⭐⭐⭐ | Power BI dashboards, Seaborn, Matplotlib, KPI reporting |
+| **Data Visualization** | ⭐⭐⭐⭐⭐ | Power BI, Tableau, Seaborn, Matplotlib, KPI reporting |
 | **Python Data Engineering** | ⭐⭐⭐⭐⭐ | Pandas pipelines, automation, reproducible analytical workflows |
-| **Cloud Data Workflows** | ⭐⭐⭐⭐ | IBM Cloud tooling, cloud-based data processing |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=3&section=header" />
 
 <!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/W5eQyO1Ej2YqjRRWTn/giphy.gif" width="28"> Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6d28d9,100:8b5cf6&height=44&section=header&text=Featured%20Projects&fontSize=24&fontColor=ffffff&fontAlignY=52" />
 
 <details>
 <summary><b>📊 Sales Data Analysis & Dashboard</b></summary>
@@ -97,7 +154,7 @@ End-to-end analytics workflow that surfaces top-performing products and regional
 
 | Attribute | Detail |
 | :--- | :--- |
-| **Stack** | Python · Pandas · Excel · Power BI |
+| **Stack** | Python · Pandas · SQL · Excel · Power BI |
 | **Scale** | 10,000+ record dataset |
 | **Performance** | Automated Pandas pipeline for repeatable analysis |
 | **Security** | Validated, cleaned data with integrity checks |
@@ -137,7 +194,7 @@ A workforce analytics system that makes headcount and attrition visible in real 
 
 | Attribute | Detail |
 | :--- | :--- |
-| **Stack** | Excel · Power BI · Google Sheets |
+| **Stack** | SQL · Excel · Power BI · Google Sheets |
 | **Scale** | Full HR dataset with 100% validated entries |
 | **Performance** | Structured data model for instant reporting |
 | **Security** | 100% entry validation, integrity-checked records |
@@ -148,11 +205,11 @@ Modeled the complete HR dataset with strict validation, then built a Power BI re
 
 </details>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=3&section=header" />
 
 <!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Experience
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6d28d9,100:8b5cf6&height=44&section=header&text=Experience&fontSize=24&fontColor=ffffff&fontAlignY=52" />
 
 ### Data Analytics Extern — Deloitte (Forage Program)
 `Jun 2025 · Remote`
@@ -163,7 +220,7 @@ Delivered stakeholder-ready business insights by extracting, cleaning, and inter
 - Applied ETL-style cleaning and transformation, then summarized KPIs for a business stakeholder.
 - Improved data reliability through structured data-quality tasks.
 
-`ETL` `Data Cleaning` `KPI Reporting` `Stakeholder Communication` `Python`
+`ETL` `Data Cleaning` `SQL` `KPI Reporting` `Stakeholder Communication` `Python`
 
 <br/>
 
@@ -178,11 +235,11 @@ Processed and analyzed real-world datasets using IBM Cloud tooling and Python-ba
 
 `IBM Cloud` `Python` `Data Analysis` `Collaboration` `Cloud Workflows`
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=3&section=header" />
 
 <!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Achievements
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6d28d9,100:8b5cf6&height=44&section=header&text=Achievements&fontSize=24&fontColor=ffffff&fontAlignY=52" />
 
 <div align="center">
 
@@ -195,11 +252,11 @@ Processed and analyzed real-world datasets using IBM Cloud tooling and Python-ba
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=3&section=header" />
 
 <!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> Certifications
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6d28d9,100:8b5cf6&height=44&section=header&text=Certifications&fontSize=24&fontColor=ffffff&fontAlignY=52" />
 
 **AWS**
 <br/>
@@ -227,11 +284,11 @@ Processed and analyzed real-world datasets using IBM Cloud tooling and Python-ba
 <br/>
 <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-6d28d9?style=flat-square&logo=deloitte&logoColor=white&labelColor=1a1a2e" />
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=3&section=header" />
 
 <!-- ═══════════════════════ CODING PROFILES ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> Coding Profiles
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6d28d9,100:8b5cf6&height=44&section=header&text=Coding%20Profiles&fontSize=24&fontColor=ffffff&fontAlignY=52" />
 
 <div align="center">
 
@@ -243,11 +300,11 @@ Processed and analyzed real-world datasets using IBM Cloud tooling and Python-ba
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=3&section=header" />
 
 <!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iigGzpNC7Ir9YHc7Q3/giphy.gif" width="28"> GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6d28d9,100:8b5cf6&height=44&section=header&text=GitHub%20Analytics&fontSize=24&fontColor=ffffff&fontAlignY=52" />
 
 <div align="center">
 
@@ -260,11 +317,11 @@ Processed and analyzed real-world datasets using IBM Cloud tooling and Python-ba
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=3&section=header" />
 
 <!-- ═══════════════════════ GITHUB TROPHIES ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/CjmvgWMMFtH8gAcAmy/giphy.gif" width="28"> GitHub Trophies
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6d28d9,100:8b5cf6&height=44&section=header&text=GitHub%20Trophies&fontSize=24&fontColor=ffffff&fontAlignY=52" />
 
 <div align="center">
 
@@ -272,11 +329,11 @@ Processed and analyzed real-world datasets using IBM Cloud tooling and Python-ba
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=3&section=header" />
 
 <!-- ═══════════════════════ CONTRIBUTION ACTIVITY ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/P2f5C1gsBFabC3wg/giphy.gif" width="28"> Contribution Activity
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6d28d9,100:8b5cf6&height=44&section=header&text=Contribution%20Activity&fontSize=24&fontColor=ffffff&fontAlignY=52" />
 
 <div align="center">
 
@@ -284,11 +341,11 @@ Processed and analyzed real-world datasets using IBM Cloud tooling and Python-ba
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=3&section=header" />
 
 <!-- ═══════════════════════ CONTRIBUTION SNAKE ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6d28d9,100:8b5cf6&height=44&section=header&text=Contribution%20Snake&fontSize=24&fontColor=ffffff&fontAlignY=52" />
 
 <div align="center">
 
@@ -296,20 +353,20 @@ Processed and analyzed real-world datasets using IBM Cloud tooling and Python-ba
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=3&section=header" />
 
 <!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="28"> Current Focus
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6d28d9,100:8b5cf6&height=44&section=header&text=Current%20Focus&fontSize=24&fontColor=ffffff&fontAlignY=52" />
 
 ```yaml
 Vivek Chauhan:
   learning:
     - Advanced Machine Learning & Statistical Modeling
-    - Data Engineering & Scalable ETL Pipelines
+    - Advanced SQL, DAX & Data Engineering ETL Pipelines
   building:
-    - Interactive Power BI Dashboards & KPI Reports
-    - Automated Python Data Analysis Workflows
+    - Interactive Power BI & Tableau Dashboards
+    - Automated Python + SQL Data Analysis Workflows
   exploring:
     - Cloud-Based Data Workflows (IBM Cloud / AWS)
     - Open Source Data Analytics Tools
@@ -319,11 +376,11 @@ Vivek Chauhan:
     - Internships & Open Source Collaboration
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=3&section=header" />
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Connect
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6d28d9,100:8b5cf6&height=44&section=header&text=Connect&fontSize=24&fontColor=ffffff&fontAlignY=52" />
 
 <div align="center">
 
