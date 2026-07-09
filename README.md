@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=220&section=header&text=Vivek%20Chauhan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20%7C%20Data%20Engineering&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,50:6d28d9,100:8b5cf6&height=220&section=header&text=Vivek%20Chauhan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%2FML%20%7C%20Data%20Engineering%20%7C%20Business%20Intelligence&descAlignY=60&descSize=18" />
 
 <a href="https://github.com/vivek-XD">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+AI%2FML+Practitioner;Full+Stack+Developer+%7C+Product+Mindset;Turning+Raw+Data+Into+Real+Decisions;Building+Scalable%2C+Reliable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Analyst+%26+AI%2FML+Practitioner;Turning+Raw+Data+Into+Real+Decisions;ETL+%7C+EDA+%7C+KPI+Reporting;Power+BI+%7C+Python+%7C+SQL" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,14 +35,14 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
 
-Software engineer and final-year **B.Tech (AI & Machine Learning)** candidate who builds systems that turn raw, messy data into decisions people can act on. I work end-to-end: designing data pipelines, engineering clean ETL workflows, and shipping analytics and ML-backed products that hold up at scale.
+Data analyst and final-year **B.Tech (AI & Machine Learning)** candidate who turns raw, messy data into decisions people can act on. I work end-to-end: cleaning and modeling large datasets, engineering clean ETL workflows, running statistical analysis, and shipping stakeholder-ready dashboards and reports.
 
-- **Software Engineering** — clean architecture, reliable pipelines, and code built to maintain, not just to demo.
-- **AI / ML** — statistical analysis, exploratory modeling, and applied machine learning on real-world datasets.
-- **Full Stack Development** — from data layer to interface, delivering complete, usable products.
-- **Product Engineering Mindset** — I optimize for stakeholder outcomes and measurable impact, not vanity metrics.
+- **Data Analysis** — cleaning, exploring, and interpreting 10,000+ record datasets into clear insights.
+- **AI / ML** — statistical analysis, exploratory modeling, and applied machine learning on real-world data.
+- **Business Intelligence** — Power BI dashboards, KPI reporting, and decision-ready visualizations.
+- **Stakeholder Impact** — I optimize for measurable outcomes and clear communication, not vanity metrics.
 
-> **Open To:** Software Engineering · AI/ML Engineering · Data Engineering · Full Stack Roles · Internships · Open Source Collaboration
+> **Open To:** Data Analyst · AI/ML Roles · Data Engineering · Business Intelligence · Internships · Open Source Collaboration
 
 ---
 
@@ -51,16 +51,21 @@ Software engineer and final-year **B.Tech (AI & Machine Learning)** candidate wh
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
 
 #### Languages
-<img src="https://skillicons.dev/icons?i=python,sql,js,ts,java,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,sql&theme=dark" />
 
-#### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
+#### Data Analysis & ML
+<img src="https://skillicons.dev/icons?i=py,anaconda,tensorflow,sklearn&theme=dark" />
 
-#### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,postgres,mongodb&theme=dark" />
+#### Visualization & BI
+<img src="https://img.shields.io/badge/Power%20BI-6d28d9?style=flat-square&logo=powerbi&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Excel-8b5cf6?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Google%20Sheets-3a0ca3?style=flat-square&logo=googlesheets&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Seaborn-4c1d95?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Matplotlib-6d28d9?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e" />
 
-#### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&theme=dark" />
+#### Cloud & Tooling
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/IBM%20Cloud-8b5cf6?style=flat-square&logo=ibmcloud&logoColor=white&labelColor=1a1a2e" />
 
 ---
 
@@ -88,7 +93,7 @@ Software engineer and final-year **B.Tech (AI & Machine Learning)** candidate wh
 
 <br/>
 
-End-to-end analytics engine that surfaces top-performing products and regional trends across a large sales dataset, then packages the findings into an interactive, decision-ready Power BI dashboard.
+End-to-end analytics workflow that surfaces top-performing products and regional trends across a large sales dataset, then packages the findings into an interactive, decision-ready Power BI dashboard.
 
 | Attribute | Detail |
 | :--- | :--- |
@@ -271,7 +276,7 @@ Processed and analyzed real-world datasets using IBM Cloud tooling and Python-ba
 
 <!-- ═══════════════════════ CONTRIBUTION ACTIVITY ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/ P2f5C1gsBFabC3wg/giphy.gif" width="28"> Contribution Activity
+## <img src="https://media.giphy.com/media/P2f5C1gsBFabC3wg/giphy.gif" width="28"> Contribution Activity
 
 <div align="center">
 
@@ -300,16 +305,16 @@ Processed and analyzed real-world datasets using IBM Cloud tooling and Python-ba
 ```yaml
 Vivek Chauhan:
   learning:
-    - Advanced Machine Learning & Model Deployment
-    - System Design & Scalable Backend Architecture
+    - Advanced Machine Learning & Statistical Modeling
+    - Data Engineering & Scalable ETL Pipelines
   building:
-    - Full Stack Data-Driven Products
-    - Automated ETL & Analytics Pipelines
+    - Interactive Power BI Dashboards & KPI Reports
+    - Automated Python Data Analysis Workflows
   exploring:
-    - Cloud-Native ML Workflows (AWS / IBM Cloud)
-    - Open Source Data Engineering Tools
+    - Cloud-Based Data Workflows (IBM Cloud / AWS)
+    - Open Source Data Analytics Tools
   open_to:
-    - Software Engineering Roles
+    - Data Analyst Roles
     - AI / ML & Data Engineering Roles
     - Internships & Open Source Collaboration
 ```
@@ -335,7 +340,7 @@ Vivek Chauhan:
 
 <div align="center">
 
-> _"Great engineering isn't writing more code, it's turning complexity into clarity."_
+> _"Great analysis isn't more charts, it's turning complexity into clarity."_
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6d28d9,100:3a0ca3&height=150&section=footer" />
 
